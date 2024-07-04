@@ -11,12 +11,12 @@ Installation:
 git clone https://github.com/zakkimdfr/SamirAssignment.git
 
 Requirements:
-iOS 17.5
-Xcode 15.0
+- iOS 17.5
+- Xcode 15.0
 
 Dependencies:
-URLSession: to fetch document data from URL.
-UIImage: to display document image.
+- URLSession: to fetch document data from URL.
+- UIImage: to display document image.
 
 Architecture:
 The app follows the MVVM (Model-View-ViewModel) architecture pattern to ensure a clean separation of concerns and promote testability and maintainability.
