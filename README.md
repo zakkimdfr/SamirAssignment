@@ -22,6 +22,7 @@ Architecture:
 The app follows the MVVM (Model-View-ViewModel) architecture pattern to ensure a clean separation of concerns and promote testability and maintainability.
 
 Screenshot:
+
 <img src="https://github.com/zakkimdfr/SamirAssignment/assets/28290737/f2b450dc-85fd-471c-90d7-651eb8f640b5" width="300">
 <img src="https://github.com/zakkimdfr/SamirAssignment/assets/28290737/40a13ca6-9450-4276-98f2-36b1ab7f97bc" width="300">
 <img src="https://github.com/zakkimdfr/SamirAssignment/assets/28290737/f3c030a9-5322-4dc9-be95-33270c86fc44" width="300">
